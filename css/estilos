@@ -1,4 +1,6 @@
 /* css document */
 body{
     background-color: #00f;
+    font-weight: bold;
+    color: brown;
 }
