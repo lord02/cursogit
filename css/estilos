@@ -1,6 +1,6 @@
 /* css document */
 body{
-    background-color: #00f;
+    background-color: #03f;
     font-weight: bold;
     color: brown;
 }
